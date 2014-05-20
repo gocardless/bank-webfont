@@ -1,0 +1,46 @@
+header {
+    background-color: #fff;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+footer {
+    padding: 60px 0;
+    color: #666;
+}
+
+h1, h4 {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-size:48px;
+}
+
+.bank-logo {
+    font-size: 80px;
+    padding: 40px 0;
+    color: #FF5E3A;
+}
+
+.bank-logo code {
+    font-size: 12px;
+    display: block;
+    color: #666;
+    font-family: Monaco, monospace;
+    margin-top: 20px;
+}
+
+a.button {
+    border-radius: 4px;
+    background-color: #FF5E3A;
+}
+
+a.button:hover {
+    background-color: #FF5E3A;
+}
+
+.gc-signature {
+    width:177px;
+    margin-bottom: 20px;
+}
