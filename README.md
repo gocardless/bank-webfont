@@ -1,6 +1,8 @@
 # Bank webfont
 
-An SVG webfont featuring the logos of prominent UK banks
+An SVG webfont featuring the logos of prominent UK banks.
+
+<a href="http://gocardless.github.io/bank-webfont/">See it in action</a>
 
 #### Disclaimer
 
